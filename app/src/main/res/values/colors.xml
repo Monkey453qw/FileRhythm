@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- M3 baseline palette — purple seed matching Rhythm's design DNA -->
+    <color name="primary_light">#FF6750A4</color>
+    <color name="on_primary_light">#FFFFFFFF</color>
+    <color name="primary_container_light">#FFEADDFF</color>
+    <color name="secondary_light">#FF625B71</color>
+    <color name="tertiary_light">#FF7D5260</color>
+    <color name="background_light">#FFFAF5FF</color>
+    <color name="surface_light">#FFFAF5FF</color>
+    <color name="surface_container_low_light">#FFF0E9F9</color>
+    <color name="surface_container_light">#FFEAE3F3</color>
+    <color name="surface_container_high_light">#FFE4DDED</color>
+    <color name="error_light">#FFB3261E</color>
+    <color name="outline_light">#FF79747E</color>
+
+    <!-- Dark variants -->
+    <color name="primary_dark">#FFD0BCFF</color>
+    <color name="on_primary_dark">#FF381E72</color>
+    <color name="primary_container_dark">#FF4F378B</color>
+    <color name="secondary_dark">#FFCCC2DC</color>
+    <color name="tertiary_dark">#FFEFB8C8</color>
+    <color name="background_dark">#FF141218</color>
+    <color name="surface_dark">#FF141218</color>
+    <color name="surface_container_low_dark">#FF1A1820</color>
+    <color name="surface_container_dark">#FF201E25</color>
+    <color name="surface_container_high_dark">#FF2A282F</color>
+    <color name="error_dark">#FFF2B8B5</color>
+    <color name="outline_dark">#FF938F99</color>
+</resources>
